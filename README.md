@@ -1,11 +1,12 @@
-<div align="center">
+# Prana — Mindful Yoga & Meditation Masterclasses
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern, peaceful online yoga and meditation course platform offering authentic masterclasses, guided breathwork, and mindful wellness programs.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Curated Learning Paths**: Breathwork, Hatha Yoga, Vinyasa Flow, and Guided Meditation.
+- **Interactive Course Modules**: Detailed lessons, video player, and practice materials.
+- **Instructors & Masterclasses**: Dedicated instructor profiles with authentic lineage.
+- **Peaceful Minimal Aesthetics**: Warm earth tones, serene typography, and fluid micro-interactions.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Deployment
+Deployed on [Vercel](https://vercel.com).
