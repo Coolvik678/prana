@@ -2,9 +2,5 @@
   "name": "prana-yoga",
   "version": "1.0.0",
   "private": true,
-  "description": "Prana - Mindful Yoga & Meditation Masterclasses",
-  "scripts": {
-    "start": "serve .",
-    "build": "echo 'Static build ready'"
-  }
+  "description": "Prana - Mindful Yoga & Meditation Masterclasses"
 }
